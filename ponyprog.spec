@@ -9,6 +9,7 @@ License:	GPL
 Group:		Development/Other
 Url:		https://github.com/lancos/ponyprog/
 BuildRequires:	cmake
+BuildRequires:	cmake(Qt5)
 BuildRequires:	cmake(LibFTDI1)
 
 %description
