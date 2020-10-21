@@ -9,9 +9,11 @@ License:	GPL
 Group:		Development/Other
 Url:		https://github.com/lancos/ponyprog/
 BuildRequires:	cmake
+BuildRequires:	boost-devel
 BuildRequires:	cmake(Qt5)
 BuildRequires:	cmake(LibFTDI1)
 BuildRequires:	cmake(Qt5PrintSupport)
+BuildRequires:	cmake(Qt5Multimedia)
 BuildRequires:	pkgconfig(libusb)
 BuildRequires:	qmake5
 
