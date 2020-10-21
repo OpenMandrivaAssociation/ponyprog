@@ -11,6 +11,9 @@ Url:		https://github.com/lancos/ponyprog/
 BuildRequires:	cmake
 BuildRequires:	cmake(Qt5)
 BuildRequires:	cmake(LibFTDI1)
+BuildRequires:	cmake(Qt5PrintSupport)
+BuildRequires:	pkgconfig(libusb)
+BuildRequires:	qmake5
 
 %description
 PonyProg is a serial device programmer software with a user friendly GUI
