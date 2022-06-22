@@ -1,6 +1,6 @@
 Name:		ponyprog
 Version:	3.1.1
-Release:	1
+Release:	2
 Summary:	Serial device programmer
 # http://downloads.sourceforge.net/ponyprog/%origname-%version.tar.gz
 Source0:	https://github.com/lancos/ponyprog/archive/v%{version}.tar.gz
